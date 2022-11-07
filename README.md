@@ -8,6 +8,7 @@ I like to come up with new idea and design milestones to carry it out.
 
 - 🤜🏻 Github repository that I used in Korea : https://github.com/yejinha  (Written in both Korean and English) 
 
-- 🏃🏻 Currently I am working on [Refactoring book study](https://github.com/Vancouver-KDD/book-study-refactoring) with KDD 
--
+- 🏃🏻 Currently I am working on 
+    - [ ] [Refactoring book study](https://github.com/Vancouver-KDD/book-study-refactoring) with KDD 
+    - [ ] Personal blog project using Spring boot, AWS , Mustache [this] (https://github.com/Yejinha-official/MyBoardProgject)
 
